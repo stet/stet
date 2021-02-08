@@ -1,4 +1,4 @@
-### Hi there 👋
+### STET is a new project... just getting organizied on Github.
 
 <!--
 **stet/stet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
