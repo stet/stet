@@ -1,8 +1,8 @@
 ### STET consists of:
 
-stet.art - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
-stetzine.com - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
-stetnode.com - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
+- stet.art - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
+- stetzine.com - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
+- stetnode.com - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
 
 ### Additional project
 bitclout.id - a more generalized BitClout identity platform; integrates with stet and vise versa
