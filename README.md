@@ -29,6 +29,9 @@ stet is an indie project and has a fluid mission, an edgy vibe and a flexible or
 ![stet-main-logo](https://user-images.githubusercontent.com/78568138/132932129-b78acb9b-e2ea-470c-8b9d-2000683d4fa3.jpg)
 ![stetzine-logo](https://user-images.githubusercontent.com/78568138/132932130-a8cb10fe-b935-4d6e-9faf-acac597512b1.png)
 ![stetzine-logo](https://user-images.githubusercontent.com/78568138/132932131-6814597c-7032-4d72-95e3-a756b59f3d09.jpg)
+<img width="1266" alt="Screen Shot 2021-09-10 at 9 41 24 PM" src="https://user-images.githubusercontent.com/78568138/132932196-402a77d5-db52-41fe-954b-9c0d581495ef.png">
+<img width="1218" alt="Screen Shot 2021-09-10 at 9 44 45 PM" src="https://user-images.githubusercontent.com/78568138/132932270-95e8e5c2-64a8-40d4-87c5-76174fd13015.png">
+
 
 
 
