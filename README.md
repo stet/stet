@@ -1,8 +1,8 @@
 ### STET consists of:
 
-- stet.art - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
-- stetzine.com - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
-- stetnode.com - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
+- [stet.art](https://stet.art) - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
+- [stetzine.com](https://stetzine.com) - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
+- [stetnode.com](https://stetnode.com) - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
 
 ### Other aspects of stet
 
@@ -12,7 +12,7 @@
 - NFTs created by stet - used to sell services and products, access-control and user "password" storage (Unlockable Content)
 - decentralized storage networks - integrations with Arweave, IPFS, Hypercore, Sia, Holo etc where appropriate and opinionated exposure to users
 
-[stet discord](discord.gg/stet)
+[stet discord](https://discord.gg/stet)
 
 ### Ambitions
 
