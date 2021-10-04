@@ -3,6 +3,7 @@
 - [stet.art](https://stet.art) - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
 - [stetzine.com](https://stetzine.com) - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
 - [stetnode.com](https://stetnode.com) - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
+- [estetica](https://estetica.love) - a curation model and network that will be central to the stet.art project (more info forthcoming).
 
 ### Other aspects of stet
 
@@ -30,6 +31,8 @@ stet is an indie project and has a fluid mission, an edgy vibe and a flexible or
 ![stetzine-logo](https://user-images.githubusercontent.com/78568138/132932131-6814597c-7032-4d72-95e3-a756b59f3d09.jpg)
 <img width="1266" alt="Screen Shot 2021-09-10 at 9 41 24 PM" src="https://user-images.githubusercontent.com/78568138/132932196-402a77d5-db52-41fe-954b-9c0d581495ef.png">
 <img width="1218" alt="Screen Shot 2021-09-10 at 9 44 45 PM" src="https://user-images.githubusercontent.com/78568138/132932270-95e8e5c2-64a8-40d4-87c5-76174fd13015.png">
+<img width="1122" alt="Screen Shot 2021-10-04 at 11 00 20 AM" src="https://user-images.githubusercontent.com/78568138/135875049-72a96c9f-6431-44df-814f-3da05a01bc5e.png">
+<img width="1125" alt="Screen Shot 2021-10-04 at 11 00 04 AM" src="https://user-images.githubusercontent.com/78568138/135875061-3e9dc0e5-d358-4d69-88eb-8478a917db8f.png">
 ![IMG_7DD476500F93-1](https://user-images.githubusercontent.com/78568138/133004626-ad68f592-c7db-421d-8a50-6ce96e8173d2.jpeg)
 ![IMB_JsK6Xg](https://user-images.githubusercontent.com/78568138/133004647-efff65b2-98a3-4b58-b2f8-5fedabbf2bf8.gif)
 ![stet-toolbox-grafitti](https://user-images.githubusercontent.com/78568138/133004648-ea3ce1c0-c95e-44a6-b919-ba99ad1cb7a4.gif)
