@@ -3,7 +3,7 @@
 - [stet.art](https://stet.art) - frontend web application; "NFT explorer"; multi-blockchain structure, emphasis on BitClout initially
 - [stetzine.com](https://stetzine.com) - a collaboraitve publication associated with stet / stet.art; uses medium.com but also archived/hosted on decentralized storage networks
 - [stetnode.com](https://stetnode.com) - a BitClout Full node; API used by stet.art (possibly others); modified ref client UI; serves as the stet social network and NFT/monetary transactions
-- [estetica](https://estetica.love) - a curation model and network that will be central to the stet.art project (more info forthcoming).
+- [estetica](http://estetica.love) - a curation model and network that will be central to the stet.art project (more info forthcoming).
 
 ### Other aspects of stet
 
