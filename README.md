@@ -17,12 +17,12 @@
 
 ### Ambitions
 
-the parent entity of stet is stet.studio and the primary focus is creating the stet platform that intends to be a blockchain-agnostic NFT centric project with a strong community of artists, collectors, developers, marketing creatives and others.
+the parent entity of stet is stet.studio and the primary focus is creating the stet platform that intends to be a blockchain-agnostic NFT centric project with a strong community of artists, curators, collectors, developers, community managers, marketing creatives and others.
 
 the founding team believes that the current tech and art movement can also raise the bar on how positive societal and cultural impact projects can succeed.
 stet wants to help foster and promote these types of projects as much and as often as possible.
 
-stet is an indie project and has a fluid mission, an edgy vibe and a flexible organic brand. 
+stet is an indie project and has a fluid mission, an edgy punk vibe and a flexible organic brand. 
 
 ![stet](https://user-images.githubusercontent.com/78568138/132932110-e3dfe4d0-a32e-4830-8a43-421b5474b600.jpg)
 ![stet-main-logo](https://user-images.githubusercontent.com/78568138/132932128-2ab64278-c8ff-4a20-b998-9e4ee7355645.png)
